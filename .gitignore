@@ -1,0 +1,14 @@
+Logs/
+Presets/
+
+###> user setting
+.tmp*
+.project
+.buildpath
+.settings
+.idea
+.vscode
+.sass-cache
+.ruby-version
+_notes/
+###< user settting
